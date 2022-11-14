@@ -1,7 +1,5 @@
 package pl.pjwstk.s18946;
 
-import com.sun.source.tree.BreakTree;
-
 public class CurrencyOperations {
 
     public double dollarToEuro(double dollars) {
